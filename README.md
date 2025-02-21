@@ -1,2 +1,2 @@
 # beta
-This is a web development (FullStack) repository.
+This is a beta development (FullStack) repository.
